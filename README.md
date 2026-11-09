@@ -79,3 +79,8 @@ Bing 搜索"软件名" → 点进仿冒官网（AI 做的，长得一模一样�
 
 全部为静态分析，样本未在任何环境执行。
 IOC 域名/IP 已做 defang 处理（`[.]`），复制使用时请自行去掉。
+
+
+---
+
+**English version: [README.en.md](README.en.md)**
